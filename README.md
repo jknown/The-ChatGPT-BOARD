@@ -1,4 +1,4 @@
-# The-ChatGPT-BOARD
+# The-ChatGPT-B
 
 Forums made with ChatGPT
 
